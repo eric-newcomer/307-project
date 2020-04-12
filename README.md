@@ -1,5 +1,5 @@
 # Favor
-[![Build Status](https://travis-ci.com/eric-newcomer/307-Sec01-Team2.svg?token=ad6LGj5Vax5svVMzEGdd&branch=develop)](https://travis-ci.com/eric-newcomer/307-Sec01-Team2)
+[![Build Status](https://travis-ci.com/eric-newcomer/favor.svg?token=ad6LGj5Vax5svVMzEGdd&branch=develop)](https://travis-ci.com/eric-newcomer/favor)
 
 ## Brief Description of Project
 Favor is an app that helps college students get things done by providing a non-monetary economy where students can trade skills for services. Students offer Favors (services) that other students can sign-up for. In doing so, they earn Favors, which they can use to "buy" Favors from other students. The goal of our app is to increase student interaction and improve student relations by valuing all forms of work and providing service options for those who cannot afford professional services.  
